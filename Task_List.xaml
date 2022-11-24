@@ -1,0 +1,21 @@
+﻿<Page x:Class="NOTEID.Task_List"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NOTEID"
+      mc:Ignorable="d" 
+      d:DesignHeight="820" d:DesignWidth="1280"
+      Title="Task_List">
+
+    <Grid Background="White">
+        <TextBlock HorizontalAlignment="Left" Margin="215.46,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="38.72" Height="52"><Run FontWeight="Bold" Text="Task List"/></TextBlock>
+        <Image Height="53.84" Width="56.46" Margin="149,39,0,0" Source="/Assets/Task.png" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="215,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="25.81"><Run Text="Use this template to track your personal tasks."/><LineBreak/><Run Text="Click "/><Run FontWeight="Bold" Text="+New"/><Run Text=" to create a new task directly on this board."/><LineBreak/><Run Text="Click an existing task to add additional context or subtask. "/></TextBlock>
+        <Image HorizontalAlignment="Left" Height="52.27" Margin="846,39,0,0" VerticalAlignment="Top" Width="365.87" Source="/Assets/SearchTask.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="215,314,0,0" VerticalAlignment="Top" Width="929.19" Source="/Assets/Todo.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="215,488,0,0" VerticalAlignment="Top" Width="929.19" Source="/Assets/Doing.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="215,662,0,0" VerticalAlignment="Top" Width="929.19" Source="/Assets/Done.png"/>
+        <Image HorizontalAlignment="Left" Height="820" VerticalAlignment="Center" Width="100" Source="/Assets/Home.png"/>
+    </Grid>
+</Page>

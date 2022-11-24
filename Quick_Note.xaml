@@ -1,0 +1,30 @@
+﻿<Page x:Class="NOTEID.Quick_Note"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NOTEID"
+      mc:Ignorable="d" 
+      d:DesignHeight="820" d:DesignWidth="1280"
+      Title="Quick_Note">
+
+    <Grid Background="White">
+        <TextBlock HorizontalAlignment="Left" Height="50" Margin="246,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" FontSize="40"><Run FontWeight="Bold" Text="QuickNote"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="41" Margin="192,149,0,0" TextWrapping="Wrap" Text="Use this template to make a quicknote that you may needed. " VerticalAlignment="Top" Width="971" FontSize="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="414,253,0,0" TextWrapping="Wrap" Text="Title" VerticalAlignment="Top" FontSize="64" Height="89" Width="126"/>
+        <TextBlock HorizontalAlignment="Left" Margin="426,454,0,0" TextWrapping="Wrap" Text="Your note" VerticalAlignment="Top" FontSize="24" Height="33" Width="108"/>
+        <Rectangle HorizontalAlignment="Left" Height="491" Margin="340,238,0,0" VerticalAlignment="Top" Width="6" Fill="Black"/>
+        <Image HorizontalAlignment="Left" Height="37" Margin="204,266,0,0" VerticalAlignment="Top" Width="37" Source="/Assets/Add.png"/>
+        <Image HorizontalAlignment="Left" Height="37" Margin="268,266,0,0" VerticalAlignment="Top" Width="37" Source="/Assets/Menu.png"/>
+        <Image HorizontalAlignment="Left" Height="37" Margin="416,371,0,0" VerticalAlignment="Top" Width="37" Source="/Assets/Bold.png" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="37" Margin="490,371,0,0" VerticalAlignment="Top" Width="37" Source="/Assets/Italic.png" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="38" Margin="564,371,0,0" VerticalAlignment="Top" Width="37" Source="/Assets/Underline.png" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="37" Margin="638,371,0,0" VerticalAlignment="Top" Width="37" Source="/Assets/StrikeThrough.png" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="36" Margin="712,371,0,0" VerticalAlignment="Top" Width="38" Source="/Assets/List.png" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="37" Margin="786,371,0,0" VerticalAlignment="Top" Width="37" Source="/Assets/Numbers.png" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="37" Margin="860,371,0,0" VerticalAlignment="Top" Width="37" Source="/Assets/Attach.png" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="52" Margin="192,49,0,0" VerticalAlignment="Top" Width="49" Source="/Assets/Pin.png"/>
+        <Button Content="Done" HorizontalAlignment="Left" Height="41" Margin="1088,688,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Image HorizontalAlignment="Left" Height="820" VerticalAlignment="Center" Width="92" Source="/Assets/home.png"/>
+    </Grid>
+</Page>

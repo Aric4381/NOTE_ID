@@ -1,0 +1,19 @@
+﻿<Page x:Class="NOTEID.Sinopsis"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NOTEID"
+      mc:Ignorable="d" 
+      d:DesignHeight="820" d:DesignWidth="1280"
+      Title="Sinopsis">
+
+    <Grid Background="White">
+        <Image HorizontalAlignment="Left" Height="820" VerticalAlignment="Center" Width="100" Source="/Assets/Home.png"/>
+        <TextBlock HorizontalAlignment="Left" Margin="344,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"><Run FontStyle="Italic" Text="Oh Su Hyang"/><LineBreak/><Run FontWeight="Bold" Text="Bicara Itu Ada Seninya"/></TextBlock>
+        <Image HorizontalAlignment="Left" Height="247.42" Margin="125,39,0,0" VerticalAlignment="Top" Width="166.48" Source="/Assets/BicaraItuAdaSeninya.png"/>
+        <Image HorizontalAlignment="Left" Height="35" Margin="344,129,0,0" VerticalAlignment="Top" Width="393.1" Source="/Assets/Sinopsis.png"/>
+        <TextBlock Margin="344,204,0,0" TextAlignment="Justify" TextWrapping="Wrap" FontSize="18" Width="777" Height="562"><Run FontSize="20" FontWeight="Bold" Text="Deskripsi Buku"/><LineBreak/><Run Text="Buku Bicara Itu Ada Seninya berisi rahasia menggunakan teknik komunikasi dengan baik dan efektif yang dapat membuat lawan bicara akan merasa nyaman dan tidak bosan selama komunikasi dilakukan yang ditulis oleh Oh Su Hyang, pakar komunikasi. Selain teknik komunikasi, buku ini juga berisi pengembangan diri, teknik negosiasi, dan persuasi. Buku ini dapat meningkatkan rasa percaya diri pembaca untuk berbicara dengan bermacam-macam orang yang memiliki karakteristik yang berbeda. "/><LineBreak/><Run/><LineBreak/><Run FontSize="20" FontWeight="Bold" Text="Sinopsis Buku "/><LineBreak/><Run Text="&quot;TAHUKAH ANDA BAHWA BERBICARA ITU ADA SENINYA? Ketika komunikasi menjadi hal yang penting untuk bersaing, pakar komunikasi Oh Su Hyang mengeluarkan buku yang sangat berarti. Selain berisi tentang pengalaman peningkatan diri, buku ini juga memuat berbagai konten mengenai teknik komunikasi, persuasi, dan negosiasi. Lalu bagaimana cara berbicara yang baik? Apakah berbicara dengan artikulasi yang jelas? Atau berbicara tanpa mengambil tarikan napas? Tidak! Sebuah ucapan yang bisa disebut baik adalah yang bisa menggetarkan hati. Ucapan seorang juara memiliki daya tarik tersendiri. Ucapan pemandu acara memiliki kemampuan menghidupkan suasana dan kekuatan kalimatnya yang terus terang. Anda harus pandai berbicara untuk menunjukkan diri Anda kepada lawan bicara dalam kehidupan sosial. Orang yang berbicara dengan mahir akan menjadi lebih maju daripada yang lainnya. Untuk mencapai tujuan komunikasi, persuasi, dan negosiasi, Anda harus mengetahui metode komunikasi yang efisien. Buku ini dijabarkan agar dapat dimengerti oleh siapa saja. Terdapat banyak episode menarik dari orang-orang terkenal dan juga rahasia inti dari komunikasi. Jika Anda membacanya dengan runut, saya yakin rasa percaya diri Anda untuk berbicara pun akan tumbuh dengan sendirinya.&quot; "/><LineBreak/><Run/></TextBlock>
+
+    </Grid>
+</Page>

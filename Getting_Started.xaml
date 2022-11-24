@@ -1,0 +1,26 @@
+﻿<Page x:Class="NOTEID.Getting_Started"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NOTEID"
+      mc:Ignorable="d" 
+      d:DesignHeight="820" d:DesignWidth="1280"
+      Title="Getting_Started">
+
+    <Grid Background="White">
+        <Image Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="70" Margin="135,39,0,0" VerticalAlignment="Top" Width="55" Source="/Assets/NoteSmool.png"/>
+        <TextBlock Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="210,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="43.05"><Run FontWeight="Bold" Text="Getting Started"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="212,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="28"><Run FontWeight="Bold" Text="Here are the basics:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="243,247,0,0" TextWrapping="Wrap" Text="Click anywhere and just start typing" VerticalAlignment="Top" FontSize="23"/>
+        <TextBlock HorizontalAlignment="Left" Margin="243,292,0,0" TextWrapping="Wrap" Text="Hit / to see all the types of content you can add - headers, videos, sub pages, etc." VerticalAlignment="Top" FontSize="23"/>
+        <TextBlock HorizontalAlignment="Left" Margin="243,337,0,0" TextWrapping="Wrap" Text="Highlight any text, and use the menu that pops up to style your writing however you like" VerticalAlignment="Top" FontSize="23"/>
+        <TextBlock HorizontalAlignment="Left" Margin="243,380,0,0" TextWrapping="Wrap" Text="This is a toggle block. Click the little triangle to see more useful tips!" VerticalAlignment="Top" FontSize="23"/>
+        <Image HorizontalAlignment="Left" Height="31" Margin="204,380,0,0" VerticalAlignment="Top" Width="31" Source="/Assets/RightArrow.png"/>
+        <CheckBox HorizontalAlignment="Left" Margin="212,255,0,0" VerticalAlignment="Top" FontSize="14" BorderBrush="Black"/>
+        <CheckBox HorizontalAlignment="Left" Margin="212,300,0,0" VerticalAlignment="Top" FontSize="14" BorderBrush="Black"/>
+        <CheckBox HorizontalAlignment="Left" Margin="212,345,0,0" VerticalAlignment="Top" FontSize="14" BorderBrush="Black"/>
+        <Image HorizontalAlignment="Left" Height="820" VerticalAlignment="Center" Width="100" Source="/Assets/home.png"/>
+        <Image HorizontalAlignment="Left" Height="30" Margin="873,36,0,0" VerticalAlignment="Top" Width="354" Source="/Assets/Header.png"/>
+    </Grid>
+</Page>

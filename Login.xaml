@@ -1,0 +1,16 @@
+﻿<Page x:Class="NOTEID.Login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NOTEID"
+      mc:Ignorable="d" 
+      d:DesignHeight="820" d:DesignWidth="1280"
+      Title="Login">
+
+    <Grid Background="White">
+        <Image HorizontalAlignment="Left" Height="632" Margin="99,100,0,0" VerticalAlignment="Top" Width="540" Source="/Assets/LoginLogo.png"/>
+        <Image HorizontalAlignment="Left" Height="490" Margin="791,165,0,0" VerticalAlignment="Top" Width="416" Source="/Assets/Login.png"/>
+
+    </Grid>
+</Page>

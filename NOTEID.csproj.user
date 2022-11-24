@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Book_Recommendation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Detail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Getting_Started.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Home_Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Personal_Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Quick_Note.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Reading_List.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SignUp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Sinopsis.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Task_List.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Book_Recommendation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Detail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Getting_Started.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Home_Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Personal_Home.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Quick_Note.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Reading_List.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SignUp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Sinopsis.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Task_List.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
