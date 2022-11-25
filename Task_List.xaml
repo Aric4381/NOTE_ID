@@ -17,5 +17,9 @@
         <Image HorizontalAlignment="Left" Height="100" Margin="215,488,0,0" VerticalAlignment="Top" Width="929.19" Source="/Assets/Doing.png"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="215,662,0,0" VerticalAlignment="Top" Width="929.19" Source="/Assets/Done.png"/>
         <Image HorizontalAlignment="Left" Height="820" VerticalAlignment="Center" Width="100" Source="/Assets/Home.png"/>
+        <Image HorizontalAlignment="Left" Height="43" Margin="36,510,0,0" VerticalAlignment="Top" Width="43" Source="/Assets/Click.png"/>
+        <Rectangle HorizontalAlignment="Left" Height="63" Margin="0,479,0,0" VerticalAlignment="Top" Width="8" Fill="#FF07FF02"/>
+        <Rectangle HorizontalAlignment="Left" Height="25" Margin="18,553,0,0" VerticalAlignment="Top" Width="117" Fill="#FF242222" Opacity="0.85"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,556,0,0" TextWrapping="Wrap" Text="Task List" VerticalAlignment="Top" FontSize="15" Foreground="White"/>
     </Grid>
 </Page>

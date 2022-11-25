@@ -22,5 +22,9 @@
         <CheckBox HorizontalAlignment="Left" Margin="212,345,0,0" VerticalAlignment="Top" FontSize="14" BorderBrush="Black"/>
         <Image HorizontalAlignment="Left" Height="820" VerticalAlignment="Center" Width="100" Source="/Assets/home.png"/>
         <Image HorizontalAlignment="Left" Height="30" Margin="873,36,0,0" VerticalAlignment="Top" Width="354" Source="/Assets/Header.png"/>
+        <Image HorizontalAlignment="Left" Height="43" Margin="36,165,0,0" VerticalAlignment="Top" Width="43" Source="/Assets/Click.png"/>
+        <Rectangle HorizontalAlignment="Left" Height="63" Margin="0,134,0,0" VerticalAlignment="Top" Width="7.93" Fill="#FF07FF02"/>
+        <Rectangle HorizontalAlignment="Left" Height="25" Margin="18,208,0,0" VerticalAlignment="Top" Width="117" Fill="#FF242222" Opacity="0.85"/>
+        <TextBlock HorizontalAlignment="Left" Margin="39,211,0,0" TextWrapping="Wrap" Text="Get Started" VerticalAlignment="Top" FontSize="15" Foreground="White"/>
     </Grid>
 </Page>

@@ -48,5 +48,9 @@
         <TextBlock HorizontalAlignment="Left" Margin="807,454,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" Foreground="White" FontSize="24.44"/>
         <TextBlock HorizontalAlignment="Left" Margin="1106,447,0,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" Foreground="White" FontSize="24.44"/>
         <Image HorizontalAlignment="Left" Height="820" VerticalAlignment="Top" Width="100" Source="/Assets/home.png" Grid.RowSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="43" Margin="36,342,0,0" VerticalAlignment="Top" Width="43" Source="/Assets/Click.png"/>
+        <Rectangle HorizontalAlignment="Left" Height="63" Margin="0,311,0,0" VerticalAlignment="Top" Width="8" Fill="#FF07FF02"/>
+        <Rectangle HorizontalAlignment="Left" Height="25" Margin="18,385,0,0" VerticalAlignment="Top" Width="117" Fill="#FF242222" Opacity="0.85"/>
+        <TextBlock HorizontalAlignment="Left" Margin="26,388,0,0" TextWrapping="Wrap" Text="Personal Home" VerticalAlignment="Top" FontSize="15" Foreground="White"/>
     </Grid>
 </Page>

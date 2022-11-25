@@ -16,6 +16,9 @@
         <TextBlock HorizontalAlignment="Left" Margin="754,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="18"><Run FontWeight="Bold" FontSize="20" Text="Penerbit"/><LineBreak/><Run Text="Bhuana Ilmu Populer"/><LineBreak/><Run/><LineBreak/><Run FontWeight="Bold" FontSize="20" Text="Bahasa"/><LineBreak/><Run Text="Indonesia"/></TextBlock>
         <Image HorizontalAlignment="Left" Height="820" VerticalAlignment="Center" Width="100" Source="/Assets/Home.png"/>
         <Image HorizontalAlignment="Left" Height="44" Margin="936,728.78,0,0" VerticalAlignment="Top" Width="122" Source="/Assets/AddBttn.png"/>
-
+        <Image HorizontalAlignment="Left" Height="44" Margin="36,427,0,0" VerticalAlignment="Top" Width="43" Source="/Assets/Click.png"/>
+        <Rectangle HorizontalAlignment="Left" Height="62" Margin="0,397,0,0" VerticalAlignment="Top" Width="8" Fill="#FF07FF02"/>
+        <Rectangle HorizontalAlignment="Left" Height="49" Margin="28,471,0,0" VerticalAlignment="Top" Width="132" Fill="#FF242222" Opacity="0.85"/>
+        <TextBlock HorizontalAlignment="Left" Margin="39,473,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="15" Foreground="White"><Run Text="Book "/><LineBreak/><Run Text="Recommendation "/></TextBlock>
     </Grid>
 </Page>
