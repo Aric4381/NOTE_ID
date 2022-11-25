@@ -15,11 +15,13 @@
         <Image HorizontalAlignment="Left" Height="70" Margin="127,23,0,0" VerticalAlignment="Top" Width="70" Source="/Assets/Book1.png"/>
         <Image HorizontalAlignment="Left" Height="143" Margin="132,466,0,0" VerticalAlignment="Top" Width="160" Source="/Assets/Edit.png"/>
         <Image HorizontalAlignment="Left" Height="86" Margin="132,363,0,0" VerticalAlignment="Top" Width="1075" Source="/Assets/Tabel.png"/>
-        <Image HorizontalAlignment="Left" Height="52.27" Margin="846,39,0,0" VerticalAlignment="Top" Width="365.87" Source="/Assets/SearchList.png"/>
         <Image HorizontalAlignment="Left" Height="30" Margin="107,413,0,0" VerticalAlignment="Top" Width="30" Source="/Assets/3Point.png"/>
         <Image HorizontalAlignment="Left" Height="43" Margin="36,596,0,0" VerticalAlignment="Top" Width="43" Source="/Assets/Click.png"/>
         <Rectangle HorizontalAlignment="Left" Height="63" Margin="0,565,0,0" VerticalAlignment="Top" Width="8" Fill="#FF07FF02"/>
         <Rectangle HorizontalAlignment="Left" Height="25" Margin="18,639,0,0" VerticalAlignment="Top" Width="117" Fill="#FF242222" Opacity="0.85"/>
         <TextBlock HorizontalAlignment="Left" Margin="36,642,0,0" TextWrapping="Wrap" Text="Reading List" VerticalAlignment="Top" FontSize="15" Foreground="White"/>
+        <Rectangle HorizontalAlignment="Left" Height="52" Margin="844,39,0,0" VerticalAlignment="Top" Width="366" RadiusX="10" RadiusY="10" Fill="#FFEFEFEF"/>
+        <Image HorizontalAlignment="Left" Height="21.78" Margin="863.42,54.97,0,0" VerticalAlignment="Top" Width="21.78" Source="/Assets/GLass.png"/>
+        <TextBlock HorizontalAlignment="Left" Margin="898.27,54.97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="17"><Run FontStyle="Italic" Text="Search reading list"/></TextBlock>
     </Grid>
 </Page>

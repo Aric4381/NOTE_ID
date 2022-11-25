@@ -12,7 +12,6 @@
         <TextBlock HorizontalAlignment="Left" Margin="215.46,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="38.72" Height="52"><Run FontWeight="Bold" Text="Task List"/></TextBlock>
         <Image Height="53.84" Width="56.46" Margin="149,39,0,0" Source="/Assets/Task.png" HorizontalAlignment="Left" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="215,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="25.81"><Run Text="Use this template to track your personal tasks."/><LineBreak/><Run Text="Click "/><Run FontWeight="Bold" Text="+New"/><Run Text=" to create a new task directly on this board."/><LineBreak/><Run Text="Click an existing task to add additional context or subtask. "/></TextBlock>
-        <Image HorizontalAlignment="Left" Height="52.27" Margin="846,39,0,0" VerticalAlignment="Top" Width="365.87" Source="/Assets/SearchTask.png"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="215,314,0,0" VerticalAlignment="Top" Width="929.19" Source="/Assets/Todo.png"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="215,488,0,0" VerticalAlignment="Top" Width="929.19" Source="/Assets/Doing.png"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="215,662,0,0" VerticalAlignment="Top" Width="929.19" Source="/Assets/Done.png"/>
@@ -21,5 +20,8 @@
         <Rectangle HorizontalAlignment="Left" Height="63" Margin="0,479,0,0" VerticalAlignment="Top" Width="8" Fill="#FF07FF02"/>
         <Rectangle HorizontalAlignment="Left" Height="25" Margin="18,553,0,0" VerticalAlignment="Top" Width="117" Fill="#FF242222" Opacity="0.85"/>
         <TextBlock HorizontalAlignment="Left" Margin="50,556,0,0" TextWrapping="Wrap" Text="Task List" VerticalAlignment="Top" FontSize="15" Foreground="White"/>
+        <Rectangle HorizontalAlignment="Left" Height="52" Margin="844,39,0,0" VerticalAlignment="Top" Width="366" RadiusX="10" RadiusY="10" Fill="#FFEFEFEF"/>
+        <Image HorizontalAlignment="Left" Height="21.78" Margin="863.42,54.97,0,0" VerticalAlignment="Top" Width="21.78" Source="/Assets/GLass.png"/>
+        <TextBlock HorizontalAlignment="Left" Margin="898.27,54.97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="17"><Run FontStyle="Italic" Text="Search tasks"/></TextBlock>
     </Grid>
 </Page>

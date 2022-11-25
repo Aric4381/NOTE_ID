@@ -11,7 +11,6 @@
     <Grid Background="White">
         <Image HorizontalAlignment="Left" Height="81" Margin="153,24,0,0" VerticalAlignment="Top" Width="64" Source="/Assets/Book2.png"/>
         <TextBlock HorizontalAlignment="Left" Margin="227,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="42"><Run FontWeight="Bold" Text="Book Recommendation"/></TextBlock>
-        <Image HorizontalAlignment="Left" Height="58" Margin="846,39,0,0" VerticalAlignment="Top" Width="366" Source="/Assets//Search_Book.png"/>
         <Image HorizontalAlignment="Left" Height="820" VerticalAlignment="Center" Width="100" Source="/Assets/home.png"/>
         <TextBlock HorizontalAlignment="Left" Margin="227,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="28"><Run Text="You can see book recommendations and click on "/><LineBreak/><Run Text="the book title if you want to read the synopsis. "/><LineBreak/><Run Text="You can add book to reading list. "/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Margin="168,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="28"><Run FontWeight="Bold" Text="Popular"/></TextBlock>
@@ -28,5 +27,8 @@
         <Rectangle HorizontalAlignment="Left" Height="62" Margin="0,397,0,0" VerticalAlignment="Top" Width="8" Fill="#FF07FF02"/>
         <Rectangle HorizontalAlignment="Left" Height="49" Margin="28,471,0,0" VerticalAlignment="Top" Width="132" Fill="#FF242222" Opacity="0.85"/>
         <TextBlock HorizontalAlignment="Left" Margin="39,473,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="15" Foreground="White"><Run Text="Book "/><LineBreak/><Run Text="Recommendation "/></TextBlock>
+        <Rectangle HorizontalAlignment="Left" Height="52" Margin="844,39,0,0" VerticalAlignment="Top" Width="366" RadiusX="10" RadiusY="10" Fill="#FFEFEFEF"/>
+        <Image HorizontalAlignment="Left" Height="21.78" Margin="863.42,54.97,0,0" VerticalAlignment="Top" Width="21.78" Source="/Assets/GLass.png"/>
+        <TextBlock HorizontalAlignment="Left" Margin="898.27,54.97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="17"><Run FontStyle="Italic" Text="Search book recomendation"/></TextBlock>
     </Grid>
 </Page>
