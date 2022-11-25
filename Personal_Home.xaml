@@ -25,8 +25,6 @@
         <Rectangle HorizontalAlignment="Left" Height="771" Margin="115,32,0,0" VerticalAlignment="Top" Width="1133" Fill="White" Opacity="0.5" RadiusX="6.81" RadiusY="6.81" Grid.RowSpan="2"/>
         <Image HorizontalAlignment="Left" Height="70" Margin="158,32,0,0" VerticalAlignment="Top" Width="70" Source="/Assets/House.png"/>
         <TextBlock HorizontalAlignment="Left" Margin="238,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="40"><Run FontWeight="Bold" Text="Personal Home"/></TextBlock>
-        <Image HorizontalAlignment="Left" Height="193" Margin="556,127,0,0" VerticalAlignment="Top" Width="418" Source="/Assets/Intro.png"/>
-        <Image HorizontalAlignment="Left" Height="234" Margin="391,106,0,0" VerticalAlignment="Top" Width="234" Source="/Assets/Avatar.png"/>
         <Image HorizontalAlignment="Left" Height="50" Margin="1183,45,0,0" VerticalAlignment="Top" Width="50" Source="/Assets/Setting.png"/>
         <Rectangle HorizontalAlignment="Left" Height="251" Margin="251,468,0,0" VerticalAlignment="Top" Width="267" Fill="White" RadiusX="6.79" RadiusY="6.79" Grid.RowSpan="2"/>
         <Rectangle HorizontalAlignment="Left" Height="251" Margin="550,468,0,0" VerticalAlignment="Top" Width="269" Fill="White" RadiusX="6.79" RadiusY="6.79" Grid.RowSpan="2"/>
@@ -52,5 +50,14 @@
         <Rectangle HorizontalAlignment="Left" Height="63" Margin="0,311,0,0" VerticalAlignment="Top" Width="8" Fill="#FF07FF02"/>
         <Rectangle HorizontalAlignment="Left" Height="25" Margin="18,385,0,0" VerticalAlignment="Top" Width="117" Fill="#FF242222" Opacity="0.85"/>
         <TextBlock HorizontalAlignment="Left" Margin="26,388,0,0" TextWrapping="Wrap" Text="Personal Home" VerticalAlignment="Top" FontSize="15" Foreground="White"/>
+        <Rectangle HorizontalAlignment="Left" Height="49.95" Margin="555.76,126.87,0,0" VerticalAlignment="Top" Width="418.24" Fill="#FFF06B6D" RadiusX="7" RadiusY="7"/>
+        <Rectangle HorizontalAlignment="Left" Height="105.86" Margin="555.76,176.82,0,0" VerticalAlignment="Top" Width="386.18" RadiusY="7" RadiusX="7" Fill="#FFFCC046"/>
+        <Rectangle HorizontalAlignment="Left" Height="37.28" Margin="555.76,282.69,0,0" VerticalAlignment="Top" Width="218.44" Fill="#FF5A6199" RadiusX="7" RadiusY="7"/>
+        <Image HorizontalAlignment="Left" Height="234" Margin="391,106,0,0" VerticalAlignment="Top" Width="234" Source="/Assets/Avatar.png"/>
+        <TextBlock HorizontalAlignment="Left" Margin="625.1,137.31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White" FontSize="27"><Run FontWeight="Bold" Text="ABDURRAHMAN KHALID"/><LineBreak/><Run FontWeight="Bold"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="701.14,191.74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White" FontSize="16"><Run FontWeight="Bold" Text="فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ"/><LineBreak/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="644.48,235.72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White" FontSize="15"><Run FontWeight="Bold" Text="Maka sesungguhnya bersama" /><LineBreak/><Run FontWeight="Bold" Text="kesulitan ada kemudahan"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="625.84,292.38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White" FontSize="15"><Run FontWeight="Bold" Text="Student | Planner"/></TextBlock>
+
     </Grid>
 </Page>
