@@ -29,3 +29,15 @@ F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\refint\NOTEID
 F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\NOTEID.pdb
 F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\NOTEID.genruntimeconfig.cache
 F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\ref\NOTEID.dll
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\Detail.g.cs
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\Home_Login.g.cs
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\Login.g.cs
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\Reading_List.g.cs
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\SignUp.g.cs
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\Sinopsis.g.cs
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\Detail.baml
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\Home_Login.baml
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\Login.baml
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\Reading_List.baml
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\SignUp.baml
+F:\Semester 3\PEMOGRAMAN LANJUT\FP\NOTEID\obj\Debug\net6.0-windows\Sinopsis.baml

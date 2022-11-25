@@ -53,7 +53,7 @@ namespace NOTEID {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/NOTEID;V1.0.0.0;component/quick_note.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/NOTEID;component/quick_note.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Quick_Note.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -10,7 +10,19 @@
 
     <Grid Background="White">
         <Image HorizontalAlignment="Left" Height="632" Margin="99,100,0,0" VerticalAlignment="Top" Width="540" Source="/Assets/LoginLogo.png"/>
-        <Image HorizontalAlignment="Left" Height="490" Margin="791,165,0,0" VerticalAlignment="Top" Width="416" Source="/Assets/Login.png"/>
+        <TextBlock HorizontalAlignment="Left" Margin="942,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="43"><Run FontWeight="Bold" Text="Login"/><LineBreak/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="791,274,0,0" TextWrapping="Wrap" Text="Email / Phone Number" VerticalAlignment="Top" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="791,383,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top"/>
+        <Rectangle HorizontalAlignment="Left" Height="45" Margin="791,301,0,0" Stroke="Black" VerticalAlignment="Top" Width="416" RadiusX="12.45" RadiusY="12.45"/>
+        <TextBlock HorizontalAlignment="Left" Margin="809,318,0,0" TextWrapping="Wrap" Text="@example.gmail.com" VerticalAlignment="Top" Foreground="#FF575757" Opacity="0.6"/>
+        <Rectangle HorizontalAlignment="Left" Height="45" Margin="791,408,0,0" Stroke="Black" VerticalAlignment="Top" Width="416" RadiusX="12.45" RadiusY="12.45"/>
+        <TextBlock HorizontalAlignment="Left" Margin="809,423,0,0" TextWrapping="Wrap" Text="********" VerticalAlignment="Top" Foreground="#FF575757" Opacity="0.6"/>
+        <Image HorizontalAlignment="Left" Height="30" Margin="1146,416,0,0" VerticalAlignment="Top" Width="30" Source="/Assets/Eye.png"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1067,472,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="13" Foreground="#FF5A6199"><Run Text="Forgot password?" TextDecorations="Underline"/></TextBlock>
+        <CheckBox Content="Remember Me" HorizontalAlignment="Left" Margin="807,472,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked"/>
+        <Rectangle HorizontalAlignment="Left" Height="36.71" Margin="931,539,0,0" VerticalAlignment="Top" Width="135.35" Fill="#FF5A6199" RadiusX="7.65" RadiusY="7.65"/>
+        <TextBlock HorizontalAlignment="Left" Margin="972,544,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White" FontSize="20"><Run FontWeight="Bold" Text="Login"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="914,635,0,0" TextWrapping="Wrap" Text="Don't have an account? Sign Up" VerticalAlignment="Top" Foreground="#FF5A6199"/>
 
     </Grid>
 </Page>

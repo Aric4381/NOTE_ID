@@ -10,7 +10,27 @@
 
     <Grid Background="White">
         <Image HorizontalAlignment="Left" Height="632" Margin="99,100,0,0" VerticalAlignment="Top" Width="540" Source="/Assets/SignUpLogo.png"/>
-        <Image HorizontalAlignment="Left" Height="721" Margin="791,36,0,0" VerticalAlignment="Top" Width="418" Source="/Assets/SignUp.png"/>
+        <Rectangle HorizontalAlignment="Left" Height="45" Margin="793,174,0,0" Stroke="#FF320E3B" VerticalAlignment="Top" Width="416" Opacity="0.8" StrokeThickness="1.25" RadiusX="12.48" RadiusY="12.48"/>
+        <Rectangle HorizontalAlignment="Left" Height="45" Margin="793,278,0,0" Stroke="#FF320E3B" VerticalAlignment="Top" Width="416" Opacity="0.8" StrokeThickness="1.25" RadiusX="12.48" RadiusY="12.48"/>
+        <Rectangle HorizontalAlignment="Left" Height="45" Margin="793,278,0,0" Stroke="#FF320E3B" VerticalAlignment="Top" Width="416" Opacity="0.8" StrokeThickness="1.25" RadiusX="12.48" RadiusY="12.48"/>
+        <Rectangle HorizontalAlignment="Left" Height="45" Margin="793,372,0,0" Stroke="#FF320E3B" VerticalAlignment="Top" Width="416" Opacity="0.8" StrokeThickness="1.25" RadiusX="12.48" RadiusY="12.48"/>
+        <Rectangle HorizontalAlignment="Left" Height="45" Margin="793,476,0,0" Stroke="#FF320E3B" VerticalAlignment="Top" Width="416" Opacity="0.8" StrokeThickness="1.25" RadiusX="12.48" RadiusY="12.48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="905,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="43"><Run FontWeight="Bold" Text="Sign Up"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="793,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Text="Email / Phone Number"/>
+        <TextBlock HorizontalAlignment="Left" Margin="793,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"><Run Text="Username"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="793,346,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Text="Password"/>
+        <TextBlock HorizontalAlignment="Left" Margin="793,450,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Text="Confirm Password"/>
+        <TextBlock HorizontalAlignment="Left" Margin="809,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="example@gmail.com" Foreground="#FF575757" Opacity="0.6"/>
+        <TextBlock HorizontalAlignment="Left" Margin="801,293,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="username" Foreground="#FF575757" Opacity="0.6"/>
+        <TextBlock HorizontalAlignment="Left" Margin="801,387,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="********" Foreground="#FF575757" Opacity="0.6"/>
+        <TextBlock HorizontalAlignment="Left" Margin="801,491,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="********" Foreground="#FF575757" Opacity="0.6"/>
+        <Image HorizontalAlignment="Left" Height="30" Margin="1155,381,0,0" VerticalAlignment="Top" Width="30" Source="/Assets/Eye.png"/>
+        <Image HorizontalAlignment="Left" Height="30" Margin="1155,484,0,0" VerticalAlignment="Top" Width="30" Source="/Assets/Eye.png"/>
+        <CheckBox Content="I read and agree to Terms and Conditions" HorizontalAlignment="Left" Margin="793,576,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="I agree to receive information updates from NOTE.ID" HorizontalAlignment="Left" Margin="793,609,0,0" VerticalAlignment="Top"/>
+        <Rectangle HorizontalAlignment="Left" Height="36.71" Margin="933,672,0,0" VerticalAlignment="Top" Width="135.35" Fill="#FF5A6199" RadiusX="7.65" RadiusY="7.65"/>
+        <TextBlock HorizontalAlignment="Left" Margin="964,677,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Foreground="White"><Run FontWeight="Bold" Text="Sign Up"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="917,742,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White"><Run Foreground="#FF5A6199" Text="Already have an account? Login"/></TextBlock>
 
     </Grid>
 </Page>

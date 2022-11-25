@@ -53,7 +53,7 @@ namespace NOTEID {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/NOTEID;V1.0.0.0;component/personal_home.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/NOTEID;component/personal_home.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Personal_Home.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
